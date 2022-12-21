@@ -1,4 +1,4 @@
-# Basic_Calculus_-ourse_for_ML
+# Basic_Calculus_for_ML
 
 Краткий курс матана для специалистов в области МЛ
 
